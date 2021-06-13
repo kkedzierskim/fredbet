@@ -1,0 +1,1 @@
+web: java -jar target/fredbet.jar -Dspring.profiles.active=postgres
