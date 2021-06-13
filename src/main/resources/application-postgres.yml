@@ -1,4 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/fredbet
+    url: jdbc:postgresql://ec2-52-19-170-215.eu-west-1.compute.amazonaws.com:5432/d64ob7h056fu4l
+    user: ksmxrysiecukom
+    password: 40b78d0de3b97e57a314aa841703c5d2f7368d6ddbbf60a786b15f0b96c92799
     driver-class-name: org.postgresql.Driver
